@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Matheus Henry, and I am a Computer Science student at the Federal University of Agreste of Pernambuco (UFAPE), currently in my second semester.
+My name is Matheus Henry, and I am a Computer Science student at the Universidade Federal do Agreste de Pernambuco (UFAPE), currently in my second semester.
 
 I am currently focused on building a strong foundation in software development and computer science fundamentals. I have been studying **Java** and **C**, improving my understanding of programming logic, data structures, and backend development concepts.
 
